@@ -1,0 +1,12 @@
+group:
+  repos: |
+    polyfrost/oneconfig
+  files:
+    - source: issue_templates/
+      dest: .github/ISSUE_TEMPLATE/
+    - source: .github/workflows/stale.yml
+      dest: .github/workflows/stale.yml
+    - source: .gitattributes
+      dest: .gitattributes
+    - source: CODE_OF_CONDUCT.md
+      dest: CODE_OF_CONDUCT.md

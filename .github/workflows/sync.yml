@@ -1,0 +1,18 @@
+name: sync issue templates
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - uses: BetaHuhn/repo-file-sync-action@v1
+        with:
+          GH_PAT: ${{ secrets.GH_SYNC_PAT }}
+          COMMIT_PREFIX: '[no ci]'
+          PR_LABELS: 'meta: sync'
+          BRANCH_PREFIX: sync-templates
