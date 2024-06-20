@@ -2,7 +2,7 @@
 
 # Hey 👋, welcome to Polyfrost
 
-We're a small team of developers, designers, and enthusiasts focused on making the best possible experience for modded Minecraft. 
+We're a team of developers, designers, and enthusiasts focused on making the best possible experience for modded Minecraft. 
 
 * 👍 Want to learn more about us? [Check out our website](https://polyfrost.org)
 * 🐛 Did you run into a bug? [Open a bug report](https://github.com/Polyfrost/OneConfig/issues/new?assignees=&labels=bug&template=bug_report.yml)
