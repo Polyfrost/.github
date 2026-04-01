@@ -10,4 +10,6 @@ We're a team of developers, designers, and enthusiasts focused on making the bes
 * 🦩 Feeling social? [Join our discord community](https://polyfrost.org/discord)
 
 ## [We 💕 open source](https://polyfrost.org/oss/)
-Like really... what argument is there against open source. It lets the community help us build the tools we all have grown to love, so we welcome all to contribute their ideas. Check out some of our favorite projects
+Like really... what argument is there against open source. It lets the community help us build the tools we all have grown to love, so we welcome all to contribute their ideas.
+
+We have had **0 private repositories** since [January 15th, 2026](https://discord.com/channels/822066990423605249/1144269779268534274/1461282121288126588), and we plan to keep it that way for the foreseeable future as part of our public pledge to Open Source Software.
