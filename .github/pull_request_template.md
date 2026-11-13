@@ -17,14 +17,3 @@ Fixes #
 -->
 ```release-note
 ```
-
-## Documentation
-<!--
-Does this PR require updates to the documentation at docs.polyfrost.cc?
-* Yes
-  * 1. Please create a docs issue: https://github.com/Polyfrost/OneConfig-Documentation/issues/new
-  * 2. Make sure this api is cross compatible with the existing api (or at least documented as such, see our policy on cross compatibility)
-  * 2. Paste the link to the docs issue below this comment
-* No
-  * Are you sure? If so, nothing to do here.
--->
